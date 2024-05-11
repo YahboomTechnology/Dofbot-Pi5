@@ -1,0 +1,2 @@
+
+Refer to the tutorial [Preparation before development: closing the startup program]
